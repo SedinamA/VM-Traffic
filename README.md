@@ -1,5 +1,5 @@
 <h1>Virtual Machine Traffic</h1>
-This is a brief tutorial where communication traffic between the virtual machines created in the VM-Set-up lab will be observed using Wireshark.<br />
+This is a brief tutorial where communication traffic between the virtual machines created in the VM-Set-up (Virtual Machine Set-up) lab will be observed using Wireshark.<br />
 
 <h2>Prerequisite</h2>
 
