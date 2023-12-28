@@ -94,3 +94,9 @@ Witness the traffic displayed in the back on Wireshark, where requests and repli
 ![image](https://github.com/SedinamA/VM-Traffic/assets/146953803/d2ad5304-74a3-4390-887c-a7371995591b)
 
 This concludes this portion of the lab, once all activities are completed, remember to delete everything created to prevent subscription costs for storage of the resource groups and virtual machines.
+
+![image](https://github.com/SedinamA/VM-Traffic/assets/146953803/3b32603f-d4e4-49e9-a48c-a4fe096a632c)
+
+![image](https://github.com/SedinamA/VM-Traffic/assets/146953803/bfb3b6fc-051d-431f-b154-aff5b46760dc)
+
+
